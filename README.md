@@ -25,7 +25,7 @@ I’m open to working on exciting projects, especially in:
 ✅ AI/ML integration in apps
 ✅ Open-source contributions
 
-📫 How to Reach Me
+
 
 <!---
 StevenBartlett-max/StevenBartlett-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
